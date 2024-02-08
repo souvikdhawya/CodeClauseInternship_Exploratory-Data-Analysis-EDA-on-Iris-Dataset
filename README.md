@@ -1,5 +1,6 @@
 # CodeClauseInternship_Exploratory-Data-Analysis-EDA-on-Iris-Dataset
 Conduct exploratory data analysis on the famous Iris dataset to understand its characteristics and relationships between features.Use libraries like Pandas, Matplotlib, and Seaborn to visualize patterns, distributions,  and relationships in the Iris dataset.
+
 Understanding the Dataset: Begin by loading the Iris dataset, which typically consists of four features: sepal length, sepal width, petal length, and petal width, along with the corresponding class labels (species of iris). It's essential to understand the data types, size, and basic statistics of the dataset.
 
 Summary Statistics: Calculate summary statistics such as mean, median, mode, standard deviation, minimum, and maximum values for each feature. These statistics provide a snapshot of the central tendency, spread, and distribution of the data.
